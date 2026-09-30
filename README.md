@@ -12,7 +12,7 @@ A CLI-based password manager with encryption and breach checking capabilities.
 
 ## Installation
 
-1. Install Python 3.8 or higher
+1. Install Python 3.11 or higher
 2. Install dependencies:
 
 ```bash
