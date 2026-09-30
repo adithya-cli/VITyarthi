@@ -50,7 +50,7 @@ When you run it for the first time, you'll be prompted to create a master passwo
 ### Encryption
 - Uses **PBKDF2** with 100,000 iterations to derive encryption key from master password
 - Random 16-byte salt for each vault (prevents rainbow table attacks)
-- **Fernet** symmetric encryption (AES-128 in CBC mode with HMAC)
+- **Fernet** symmetric encryption
 
 ### Breach Checking
 - Uses HaveIBeenPwned's k-anonymity API
