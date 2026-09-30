@@ -26,6 +26,7 @@ Run the password manager:
 ```bash
 python password_manager.py
 ```
+<img width="1419" height="774" alt="image" src="https://github.com/user-attachments/assets/a036b055-63e8-4ee9-b361-cc8194347b48" />
 
 ### First Time Setup
 
